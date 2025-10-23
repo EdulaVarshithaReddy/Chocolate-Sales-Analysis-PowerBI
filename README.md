@@ -21,12 +21,12 @@ Optimization: Ensured proper relationships, reduced unnecessary columns, and imp
 **Dashboard Details**
 The dashboard consists of well-structured visuals and interactive filters that allow users to analyze performance across different perspectives.
 **Key Visuals:**
-. CY vs PY Trends: Line charts comparing current and previous year performance for sales amount and total boxes.
-. Regional Performance: Donut chart showing total amount by geography.
-. Shipment Distribution: Histogram showing shipment frequency distribution.
-. Top Salespersons: Table showing the top six performers with total amount, boxes, and profit percentage.
-. Product Insights: Visuals displaying top products and profitability across different chocolate categories.
-. Interactive Filters: Date range and slicers for flexible analysis.
+CY vs PY Trends: Line charts comparing current and previous year performance for sales amount and total boxes.
+Regional Performance: Donut chart showing total amount by geography.
+Shipment Distribution: Histogram showing shipment frequency distribution.
+Top Salespersons: Table showing the top six performers with total amount, boxes, and profit percentage.
+Product Insights: Visuals displaying top products and profitability across different chocolate categories.
+Interactive Filters: Date range and slicers for flexible analysis.
 
 **Key Insights**
 Sales show seasonal variation with a decline observed toward the end of the first quarter of 2025.
