@@ -1,4 +1,4 @@
-**Chocolate Sales Analysis — Power BI Dashboard**
+🛒🍫**Chocolate Sales Analysis — Power BI Dashboard**
 📊**Project Overview**
 The Chocolate Sales Analysis Dashboard provides a comprehensive overview of chocolate shipments, sales performance, and profitability across different regions, products, and salespersons.
 The objective of this project is to identify sales patterns, evaluate top-performing products and regions, and assess profitability trends to support data-driven business decisions.
